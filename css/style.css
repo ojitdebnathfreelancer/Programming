@@ -31,9 +31,14 @@
 
 #poular-course .item{
     border: 1px solid #E8E8E8;
+}
 
+#elearning{
+    background: #F4FAFD;
 }
 
 #elearning h1{
     font-size: 25px !important;
 }
+
+
