@@ -37,3 +37,8 @@ a{
     position: absolute;
     background-color: rgba(0, 0, 0, 0.4);
 }
+
+/* slider css ends  */
+#poular-course .item h1{
+    font-size: 25px;
+}
